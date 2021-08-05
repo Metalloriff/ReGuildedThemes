@@ -1,0 +1,27 @@
+@import "https://github.com/Metalloriff/ReGuildedThemes/blob/main/Blueberry/src/Blueberry.css";
+
+:root {
+    --primary-color: #9999ff;
+    --secondary-color: #b3b3ff;
+
+    --primary-bg: #171726;
+    --secondary-bg: #1f1f33;
+    --tertiary-bg: #262640;
+
+    --text-color: 255,255,255;
+
+    --icon-shape: 5px;
+    --primary-border-radius: 5px;
+    --secondary-border-radius: 10px;
+
+    --online-color: #88ff88;
+    --away-color: #ffff88;
+    --dnd-color: #ff8888;
+
+    /* Uncomment for eye death, light theme
+    --primary-bg: #ffffff;
+    --secondary-bg: #eeeeee;
+    --tertiary-bg: #dddddd;
+    --text-color: 0,0,0;
+    */
+}
